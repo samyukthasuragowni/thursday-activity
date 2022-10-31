@@ -1,10 +1,5 @@
-package com.transpose;
+package com.matrx;
 
 public class transposematrix {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
 
 }
